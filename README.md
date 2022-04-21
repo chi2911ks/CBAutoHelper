@@ -23,4 +23,4 @@ cmd use:
 [--mac ]
 [--autorotate < 1 | 0 >]
 [--lockwindow < 1 | 0 >]
-Exam:   ld.Change_Property("name", "LDPlayer", " --cpu 1 --memory 1024 --imei 123456789");
+Exam:   ld.Change_Property("name", "LDPlayer", " --cpu 1 --memory 1024 --imei 123456789)
