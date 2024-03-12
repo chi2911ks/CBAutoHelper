@@ -3,11 +3,7 @@ Set pathLD
 Example:
 ld = LDPlayer()
 ld.pathLD = "D:\\LDPlayer\\LDPlayer4.0\\ldconsole.exe"
-Open
-ld = LDPlayer()
-ld.Open("name","LDPlayer")
-ld.Open("name","LDPlayer-1")
-ld.Open("index","0")
+
 ld = LDPlayer()
 cmd use:
 [--resolution ]
